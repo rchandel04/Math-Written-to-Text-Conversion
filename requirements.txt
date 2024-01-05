@@ -3,3 +3,6 @@ torchaudio
 torchvision
 torchinfo
 pillow
+opencv-python
+matplotlib
+
